@@ -1,4 +1,4 @@
-baseURL = "https://mutzschilling.de"
+baseURL = "https://blog.mutzschilling.de"
 languageCode = "en-us"
 theme = "hello-friend"
 paginate = 5
@@ -32,7 +32,7 @@ ignoreFiles = [ "LICENSE$" ]
     subtitle = "Sysadmin by night and day"
     keywords = ""
     description = "Martin Schilling is an System Administrator."
-    copyright = "<p>Copyright © 2021 Martin Schilling</p><p xmlns:dct='http://purl.org/dc/terms/' xmlns:cc='http://creativecommons.org/ns#' class='license-text'><a rel='cc:attributionURL' property='dct:title' href='https://github.com/Mutz/mutzschilling.github.io/tree/main/content'>Content</a> licensed under <a rel='license' href='https://creativecommons.org/licenses/by/4.0'>CC BY 4.0</a></p>"
+    copyright = "<p>Copyright © 2021 Martin Schilling</p><p xmlns:dct='http://purl.org/dc/terms/' xmlns:cc='http://creativecommons.org/ns#' class='license-text'><a rel='cc:attributionURL' property='dct:title' href='https://github.com/Mutz/mutz.github.io/tree/main/content'>Content</a> licensed under <a rel='license' href='https://creativecommons.org/licenses/by/4.0'>CC BY 4.0</a></p>"
     menuMore = "Show more"
     writtenBy = "Written by"
     readMore = "Read more"
@@ -46,7 +46,7 @@ ignoreFiles = [ "LICENSE$" ]
     #lastModDisplay = "modified"
 
     [languages.en.params.logo]
-      logoText = "mutzschilling.de"
+      logoText = "blog.mutzschilling.de"
       logoHomeLink = "/"
     # or
     #
